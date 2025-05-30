@@ -1,0 +1,4 @@
+com/kapitonau/projectservice/dto/SpacePostRequest.class
+com/kapitonau/projectservice/dto/SpaceResponse$SpaceResponseBuilder.class
+com/kapitonau/projectservice/api/SpaceApi.class
+com/kapitonau/projectservice/dto/SpaceResponse.class
